@@ -171,6 +171,3 @@ http://doc.ruoyi.vip/ruoyi-vue/document/hjbs.html#nginx%E9%85%8D%E7%BD%AE
         <td><img src="https://oscimg.oschina.net/oscnet/up-e7f3e329aa2052d32f64a372f25ad9f5df1.png"/></td>
     </tr>
 </table>
-
-
-联系：qq: 2033619233
